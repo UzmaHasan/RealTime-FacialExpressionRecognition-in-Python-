@@ -36,7 +36,7 @@ python TrainModelClassifier.py
 
 Used [this](https://www.kaggle.com/c/3364/download-all) dataset
 
-Download it and open a folder named fer2013 dataset and place in it
+Download it and place in the same folder where the project files are kept.
 
 
 
